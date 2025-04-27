@@ -23,27 +23,7 @@ Dynamic tab bar icons based on the screen
 
 Flexbox layout and StyleSheet for styling
 
-Asset management using require()
-
-🛠️ Installation
-Clone the repository.
-
-Install dependencies:
-
-bash
-Copy
-Edit
-npm install
-Install React Navigation libraries:
-
-bash
-Copy
-Edit
-npm install @react-navigation/native @react-navigation/bottom-tabs react-native-screens react-native-safe-area-context react-native-vector-icons
-If using Expo:
-
-bash
-Copy
+ 
 Edit
 expo install react-native-screens react-native-safe-area-context react-native-vector-icons
 Run the app:
